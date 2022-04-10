@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "Almarai-Regular";
+    src: url("fonts/Almarai-Regular.ttf");
+}
+
+* {
+        font-family: "Almarai-Regular";
+}
+
+.blue {
+    color: #3c8eff;
+}
+
+.nav-bg {
+    background: linear-gradient(90deg, rgba(102,186,255,1) 0%, rgba(60,142,255,1) 100%);
+}
+
+.btn {
+    border-radius: 25px;
+    width: 200px;
+    border: 0;
+    transition: 0.3s;
+    background-color: #3c8eff;
+    color: white;
+}
+.btn:hover {
+  background-color: #2762b4;
+  color: white;
+  transition: 0.3s;
+}
+
+.form-control {
+    border: 1px solid #3c8eff;
+    border-radius: 25px;
+}
+
+.form-select {
+    border: 1px solid #3c8eff;
+    border-radius: 25px;
+}

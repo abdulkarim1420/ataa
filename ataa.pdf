@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+
+
+
+
+<html lang="ar" dir="rtl">
+
+
+
+
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        
+            استثمر في أبنائك الآن
+        
+    </title>
+    <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.abe91756d18b.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/css/main.6ab94a60b651.css"/>
+    <link rel="shortcut icon" href="/static/img/favicon.5189576017aa.ico">
+    <style>
+        @font-face {
+            font-family:'main-font-regular';
+            src: local('main-font-regular'), url('/static/font/DIN Next LT Arabic Regular.ea96f3641065.ttf') format('TrueType');
+        }
+
+        @font-face {
+            font-family:'main-font-bold';
+            src: local('main-font-bold'), url('/static/font/DINNextLTArabic-Bold.b9089b8b4eaf.ttf') format('TrueType');
+        }
+    </style>
+</head>
+
+
+
+  <body style="direction: rtl!important;text-align: right!important;">
+
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-main-5">
+        
+        
+
+
+
+<div class="container">
+
+  <a class="navbar-brand m-0 text-white font-bold" href="https://twitter.com/ataaeduco">
+    <img src="/static/img/Logo-main.6f7d5c65ec6c.png" alt="" width="100" height="50"
+      class="d-inline-block">
+    
+      <span class="hashtag-title px-3">
+          
+              #استثمر_بتعليمهم_وحقق_أحلامهم
+          
+      </span>
+  </a>
+
+</div>
+
+    </nav>
+    
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-main-5 py-0">
+
+        
+
+    </nav>
+    
+    <div id="messages" class="container">
+    
+        
+
+
+
+
+
+
+
+
+
+    
+    </div>
+
+
+    <div id="content_root" class="container">
+
+        
+
+    <script id="schools-data" type="application/json">[{"code": "RO5", "booklet": "https://ataa-production.s3.eu-central-1.amazonaws.com/static/pdf/%D9%83%D8%AA%D9%8A%D8%A8_%D8%AA%D8%B9%D8%B1%D9%8A%D9%81%D9%8A_-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%AF_%D8%A3%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D8%A9_v6_Web.pdf", "google_map_loacation": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1811.0097981181088!2d46.7966304!3d24.7947825!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2effda709ecfdf%3A0x80c06bf1808421d1!2z2YXYr9in2LHYsyDYsdmI2KfYryDYp9i02KjZitmE2YrZhyDYp9mE2LnYp9mE2YXZitip!5e0!3m2!1sar!2ssa!4v1626563905924!5m2!1sar!2ssa"}, {"code": "RO4", "booklet": "https://ataa-production.s3.eu-central-1.amazonaws.com/static/pdf/%D9%83%D8%AA%D9%8A%D8%A8_%D8%AA%D8%B9%D8%B1%D9%8A%D9%81%D9%8A_-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%AF_%D8%A7%D9%84%D8%A7%D9%86%D8%AF%D9%84%D8%B3_v5_Web.pdf", "google_map_loacation": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1811.6796178267164!2d46.7860501!3d24.7488693!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f01ab16a6d34b%3A0xad50bda41913a9c4!2z2YXYr9in2LHYsyDYp9mE2LHZiNin2K8g2YAg2KfZhNij2YbYr9mE2LM!5e0!3m2!1sar!2ssa!4v1626563852760!5m2!1sar!2ssa"}, {"code": "RO1", "booklet": "https://ataa-production.s3.eu-central-1.amazonaws.com/static/pdf/%D9%83%D8%AA%D9%8A%D8%A8_%D8%AA%D8%B9%D8%B1%D9%8A%D9%81%D9%8A_-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%AF_%D8%A7%D9%84%D8%A7%D8%B2%D8%AF%D9%87%D8%A7%D8%B1_v5_Web.pdf", "google_map_loacation": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1811.1769242309786!2d46.7255569!3d24.7833342!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2efdbe7ca4b253%3A0x9b3f6329bfda2873!2z2YXYr9in2LHYsyDYp9mE2LHZiNin2K8g2KfZhNij2YfZhNmK2Kkg2YAg2YXYrNmF2Lkg2KfZhNin2LLYr9mH2KfYsQ!5e0!3m2!1sar!2ssa!4v1626563673388!5m2!1sar!2ssa"}, {"code": "RO2", "booklet": "https://ataa-production.s3.eu-central-1.amazonaws.com/static/pdf/%D9%83%D8%AA%D9%8A%D8%A8_%D8%AA%D8%B9%D8%B1%D9%8A%D9%81%D9%8A_-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%AF_%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A8%D9%8A_v5_Web.pdf", "google_map_loacation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3624.857257394274!2d46.80407998500035!3d24.697433184131036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f073e9749912d%3A0xb03db444f3bce0b4!2z2YXYr9in2LHYsyDYp9mE2LHZiNin2K8g2KfZhNij2YfZhNmK2Kkg2KfZhNix2YjYp9io2Yo!5e0!3m2!1sar!2ssa!4v1626563780278!5m2!1sar!2ssa"}, {"code": "RO3", "booklet": "https://ataa-production.s3.eu-central-1.amazonaws.com/static/pdf/%D9%83%D8%AA%D9%8A%D8%A8_%D8%AA%D8%B9%D8%B1%D9%8A%D9%81%D9%8A_-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3_%D8%A7%D9%84%D9%85%D9%86%D8%B5%D9%88%D8%B1%D8%A9_v5_Web.pdf", "google_map_loacation": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3627.2648319563923!2d46.7407165!3d24.6145556!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f0f57e0f0e56d%3A0xce8587de09d50893!2z2YXYr9in2LHYsyDYp9mE2LHZiNin2K8g2KfZhNij2YfZhNmK2KkgLSDZhdis2YXYuSDYp9mE2LHZiNin2KjZig!5e0!3m2!1sar!2ssa!4v1626563828299!5m2!1sar!2ssa"}, {"code": "MED", "booklet": "https://ataa-production.s3.eu-central-1.amazonaws.com/static/pdf/MED.pdf", "google_map_loacation": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1811.4569619094873!2d46.66293736276222!3d24.764140234632798!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2ee3966a057fa5%3A0x310a3053ef4a51ed!2sMiddle%20East%20International%20School%20-%20New%20Building!5e0!3m2!1sar!2ssa!4v1626564802491!5m2!1sar!2ssa"}, {"code": "ARB", "booklet": "https://ataa-production.s3.eu-central-1.amazonaws.com/static/pdf/aloruba-international-schools_v5_Web.pdf", "google_map_loacation": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1813.2220307367256!2d46.6581685!3d24.6428389!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f1b47606edccd%3A0x6ea94e91a48e8782!2sAl%20Oruba%20International%20Schools!5e0!3m2!1sar!2ssa!4v1626564364075!5m2!1sar!2ssa"}, {"code": "FKR", "booklet": "https://ataa-production.s3.eu-central-1.amazonaws.com/static/pdf/%D9%83%D8%AA%D9%8A%D8%A8_%D8%AA%D8%B9%D8%B1%D9%8A%D9%81%D9%8A_-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3_%D8%A7%D9%84%D9%81%D9%83%D8%B1_%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A%D8%A9_v5_Web.pdf", "google_map_loacation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3624.155050004876!2d46.653833884999976!3d24.721556684119644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f1d41fb96c619%3A0xf7c90aefd113043e!2z2YXYr9in2LHYsyDYp9mE2YHZg9ixINin2YTYo9mH2YTZitip!5e0!3m2!1sar!2ssa!4v1626564439959!5m2!1sar!2ssa"}, {"code": "NKH", "booklet": "https://ataa-production.s3.eu-central-1.amazonaws.com/static/pdf/%D9%83%D8%AA%D9%8A%D8%A8_%D8%AA%D8%B9%D8%B1%D9%8A%D9%81%D9%8A_-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%AF_%D8%A7%D9%84%D9%86%D8%AE%D8%A8%D8%A9_v5_Web.pdf", "google_map_loacation": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d910.1521705854886!2d47.319376!3d24.150377!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa16b8485017aff7a!2z2KXYqNiq2K_Yp9im2YrYqSDYp9mE2YbYrtio2Kkg2KfZhNij2YfZhNmK2Kkg2KjYp9mE2K7Ysdis!5e0!3m2!1sar!2ssa!4v1626564930767!5m2!1sar!2ssa"}, {"code": "ESH", "booklet": "https://ataa-production.s3.eu-central-1.amazonaws.com/static/pdf/Rawad_eshbilia_intenational_school-EN_V4_Web.pdf", "google_map_loacation": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3622.0308422238604!2d46.7975159!3d24.7943974!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x80c06bf1808421d1!2z2YXYr9in2LHYsyDYsdmI2KfYryDYp9i02KjZitmE2YrZhyDYp9mE2LnYp9mE2YXZitip!5e0!3m2!1sar!2ssa!4v1626564466203!5m2!1sar!2ssa"}, {"code": "SLM", "booklet": "https://ataa-production.s3.eu-central-1.amazonaws.com/static/pdf/RO1.pdf", "google_map_loacation": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1811.1769242309786!2d46.7255569!3d24.7833342!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2efdbe7ca4b253%3A0x9b3f6329bfda2873!2z2YXYr9in2LHYsyDYp9mE2LHZiNin2K8g2KfZhNij2YfZhNmK2Kkg2YAg2YXYrNmF2Lkg2KfZhNin2LLYr9mH2KfYsQ!5e0!3m2!1sar!2ssa!4v1626563673388!5m2!1sar!2ssa"}, {"code": "ELM", "booklet": "https://ataa-production.s3.eu-central-1.amazonaws.com/static/pdf/RO1.pdf", "google_map_loacation": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1811.1769242309786!2d46.7255569!3d24.7833342!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2efdbe7ca4b253%3A0x9b3f6329bfda2873!2z2YXYr9in2LHYsyDYp9mE2LHZiNin2K8g2KfZhNij2YfZhNmK2Kkg2YAg2YXYrNmF2Lkg2KfZhNin2LLYr9mH2KfYsQ!5e0!3m2!1sar!2ssa!4v1626563673388!5m2!1sar!2ssa"}, {"code": "WST", "booklet": "https://ataa-production.s3.eu-central-1.amazonaws.com/static/pdf/RO1.pdf", "google_map_loacation": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1811.1769242309786!2d46.7255569!3d24.7833342!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2efdbe7ca4b253%3A0x9b3f6329bfda2873!2z2YXYr9in2LHYsyDYp9mE2LHZiNin2K8g2KfZhNij2YfZhNmK2Kkg2YAg2YXYrNmF2Lkg2KfZhNin2LLYr9mH2KfYsQ!5e0!3m2!1sar!2ssa!4v1626563673388!5m2!1sar!2ssa"}]</script>
+    <script id="features-data" type="application/json">[{"feature": "\u0623\u0643\u062b\u0631 \u0645\u0646 50.000 \u0648\u0644\u064a \u0623\u0645\u0631 \u064a\u062b\u0642 \u0628\u0645\u062f\u0627\u0631\u0633 \u0627\u0644\u0631\u0648\u0627\u062f \u0627\u0644\u0623\u0647\u0644\u064a\u0629", "school__code": "RO1"}, {"feature": "\u0645\u0631\u0627\u0643\u0632 \u0645\u062a\u0642\u062f\u0645\u0629 \u0641\u064a \u0627\u0644\u0642\u062f\u0631\u0627\u062a \u0648\u0627\u0644\u062a\u062d\u0635\u064a\u0644\u064a", "school__code": "RO1"}, {"feature": "\u062e\u0628\u0631\u0627\u062a \u062a\u0639\u0644\u064a\u0645\u064a\u0629 \u0648\u062a\u0631\u0628\u0648\u064a\u0629 \u0648\u0625\u062f\u0627\u0631\u064a\u0629", "school__code": "RO1"}, {"feature": "\u062d\u0635\u0635 \u0625\u0636\u0627\u0641\u064a\u0629 \u0648\u0628\u0631\u0627\u0645\u062c \u0625\u062b\u0631\u0627\u0626\u064a\u0629 \u062f\u0627\u0639\u0645\u0629", "school__code": "RO1"}, {"feature": "\u0623\u0643\u062b\u0631 \u0645\u0646 50.000 \u0648\u0644\u064a \u0623\u0645\u0631 \u064a\u062b\u0642 \u0628\u0645\u062f\u0627\u0631\u0633 \u0627\u0644\u0631\u0648\u0627\u062f \u0627\u0644\u0623\u0647\u0644\u064a\u0629", "school__code": "RO2"}, {"feature": "\u0645\u0631\u0627\u0643\u0632 \u0645\u062a\u0642\u062f\u0645\u0629 \u0641\u064a \u0627\u0644\u0642\u062f\u0631\u0627\u062a \u0648\u0627\u0644\u062a\u062d\u0635\u064a\u0644\u064a", "school__code": "RO2"}, {"feature": "\u062e\u0628\u0631\u0627\u062a \u062a\u0639\u0644\u064a\u0645\u064a\u0629 \u0648\u062a\u0631\u0628\u0648\u064a\u0629 \u0648\u0625\u062f\u0627\u0631\u064a\u0629", "school__code": "RO2"}, {"feature": "\u062d\u0635\u0635 \u0625\u0636\u0627\u0641\u064a\u0629 \u0648\u0628\u0631\u0627\u0645\u062c \u0625\u062b\u0631\u0627\u0626\u064a\u0629 \u062f\u0627\u0639\u0645\u0629", "school__code": "RO2"}, {"feature": "\u0623\u0643\u062b\u0631 \u0645\u0646 50.000 \u0648\u0644\u064a \u0623\u0645\u0631 \u064a\u062b\u0642 \u0628\u0645\u062f\u0627\u0631\u0633 \u0627\u0644\u0631\u0648\u0627\u062f \u0627\u0644\u0623\u0647\u0644\u064a\u0629", "school__code": "RO3"}, {"feature": "\u0645\u0631\u0627\u0643\u0632 \u0645\u062a\u0642\u062f\u0645\u0629 \u0641\u064a \u0627\u0644\u0642\u062f\u0631\u0627\u062a \u0648\u0627\u0644\u062a\u062d\u0635\u064a\u0644\u064a", "school__code": "RO3"}, {"feature": "\u062e\u0628\u0631\u0627\u062a \u062a\u0639\u0644\u064a\u0645\u064a\u0629 \u0648\u062a\u0631\u0628\u0648\u064a\u0629 \u0648\u0625\u062f\u0627\u0631\u064a\u0629", "school__code": "RO3"}, {"feature": "\u062d\u0635\u0635 \u0625\u0636\u0627\u0641\u064a\u0629 \u0648\u0628\u0631\u0627\u0645\u062c \u0625\u062b\u0631\u0627\u0626\u064a\u0629 \u062f\u0627\u0639\u0645\u0629", "school__code": "RO3"}, {"feature": "\u0623\u0643\u062b\u0631 \u0645\u0646 50.000 \u0648\u0644\u064a \u0623\u0645\u0631 \u064a\u062b\u0642 \u0628\u0645\u062f\u0627\u0631\u0633 \u0627\u0644\u0631\u0648\u0627\u062f \u0627\u0644\u0623\u0647\u0644\u064a\u0629", "school__code": "RO4"}, {"feature": "\u0645\u0631\u0627\u0643\u0632 \u0645\u062a\u0642\u062f\u0645\u0629 \u0641\u064a \u0627\u0644\u0642\u062f\u0631\u0627\u062a \u0648\u0627\u0644\u062a\u062d\u0635\u064a\u0644\u064a", "school__code": "RO4"}, {"feature": "\u062e\u0628\u0631\u0627\u062a \u062a\u0639\u0644\u064a\u0645\u064a\u0629 \u0648\u062a\u0631\u0628\u0648\u064a\u0629 \u0648\u0625\u062f\u0627\u0631\u064a\u0629", "school__code": "RO4"}, {"feature": "\u062d\u0635\u0635 \u0625\u0636\u0627\u0641\u064a\u0629 \u0648\u0628\u0631\u0627\u0645\u062c \u0625\u062b\u0631\u0627\u0626\u064a\u0629 \u062f\u0627\u0639\u0645\u0629", "school__code": "RO4"}, {"feature": "\u0623\u0643\u062b\u0631 \u0645\u0646 50.000 \u0648\u0644\u064a \u0623\u0645\u0631 \u064a\u062b\u0642 \u0628\u0645\u062f\u0627\u0631\u0633 \u0627\u0644\u0631\u0648\u0627\u062f \u0627\u0644\u0623\u0647\u0644\u064a\u0629", "school__code": "RO5"}, {"feature": "\u0645\u0631\u0627\u0643\u0632 \u0645\u062a\u0642\u062f\u0645\u0629 \u0641\u064a \u0627\u0644\u0642\u062f\u0631\u0627\u062a \u0648\u0627\u0644\u062a\u062d\u0635\u064a\u0644\u064a", "school__code": "RO5"}, {"feature": "\u062e\u0628\u0631\u0627\u062a \u062a\u0639\u0644\u064a\u0645\u064a\u0629 \u0648\u062a\u0631\u0628\u0648\u064a\u0629 \u0648\u0625\u062f\u0627\u0631\u064a\u0629", "school__code": "RO5"}, {"feature": "\u062d\u0635\u0635 \u0625\u0636\u0627\u0641\u064a\u0629 \u0648\u0628\u0631\u0627\u0645\u062c \u0625\u062b\u0631\u0627\u0626\u064a\u0629 \u062f\u0627\u0639\u0645\u0629", "school__code": "RO5"}, {"feature": "\u0627\u0639\u062a\u0645\u0627\u062f \u0623\u0643\u0627\u062f\u064a\u0645\u064a \u0639\u0627\u0644\u0645\u064a Cognia", "school__code": "MED"}, {"feature": "\u062e\u0628\u0631\u0629 \u0648\u0643\u0641\u0627\u0621\u0629 \u0627\u0644\u0643\u0627\u062f\u0631 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u064a", "school__code": "MED"}, {"feature": "\u0623\u0646\u0634\u0637\u0629 \u062b\u0642\u0627\u0641\u064a\u0629 \u0648\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0645\u062a\u0639\u062f\u062f\u0629", "school__code": "MED"}, {"feature": "\u0641\u0635\u0648\u0644 \u062f\u0631\u0627\u0633\u064a\u0629 \u0648\u0645\u0631\u0627\u0641\u0642 \u062a\u0639\u0644\u064a\u0645\u064a\u0629 \u0645\u062c\u0647\u0632\u0629", "school__code": "MED"}, {"feature": "\u0627\u0639\u062a\u0645\u0627\u062f \u0623\u0643\u0627\u062f\u064a\u0645\u064a \u0639\u0627\u0644\u0645\u064a Cognia", "school__code": "ARB"}, {"feature": "\u062e\u0628\u0631\u0629 \u0648\u0643\u0641\u0627\u0621\u0629 \u0627\u0644\u0643\u0627\u062f\u0631 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u064a", "school__code": "ARB"}, {"feature": "\u0623\u0646\u0634\u0637\u0629 \u062b\u0642\u0627\u0641\u064a\u0629 \u0648\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0645\u062a\u0639\u062f\u062f\u0629", "school__code": "ARB"}, {"feature": "\u0641\u0635\u0648\u0644 \u062f\u0631\u0627\u0633\u064a\u0629 \u0648\u0645\u0631\u0627\u0641\u0642 \u062a\u0639\u0644\u064a\u0645\u064a\u0629 \u0645\u062c\u0647\u0632\u0629", "school__code": "ARB"}, {"feature": "\u0645\u0646\u0627\u0647\u062c \u0625\u062b\u0631\u0627\u0626\u064a\u0629 \u0645\u062a\u0646\u0648\u0639\u0629", "school__code": "NKH"}, {"feature": "\u0627\u0644\u062a\u0645\u064a\u0632 \u0641\u064a \u0627\u0644\u0642\u062f\u0631\u0627\u062a \u0648\u0627\u0644\u062a\u062d\u0635\u064a\u0644\u064a", "school__code": "NKH"}, {"feature": "\u0623\u0646\u0634\u0637\u0629 \u062b\u0642\u0627\u0641\u064a\u0629 \u0648\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0645\u062a\u0639\u062f\u062f\u0629", "school__code": "NKH"}, {"feature": "\u0641\u0635\u0648\u0644 \u062f\u0631\u0627\u0633\u064a\u0629 \u0648\u0645\u0631\u0627\u0641\u0642 \u062a\u0639\u0644\u064a\u0645\u064a\u0629 \u0645\u062c\u0647\u0632\u0629", "school__code": "NKH"}, {"feature": "\u0645\u0646\u0627\u0647\u062c \u0625\u062b\u0631\u0627\u0626\u064a\u0629 \u0645\u062a\u0646\u0648\u0639\u0629", "school__code": "FKR"}, {"feature": "\u0623\u0646\u0634\u0637\u0629 \u062b\u0642\u0627\u0641\u064a\u0629 \u0648\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0645\u062a\u0639\u062f\u062f\u0629", "school__code": "FKR"}, {"feature": "\u0641\u0635\u0648\u0644 \u062f\u0631\u0627\u0633\u064a\u0629 \u0648\u0645\u0631\u0627\u0641\u0642 \u062a\u0639\u0644\u064a\u0645\u064a\u0629 \u0645\u062c\u0647\u0632\u0629", "school__code": "FKR"}, {"feature": "\u0627\u0639\u062a\u0645\u0627\u062f \u0623\u0643\u0627\u062f\u064a\u0645\u064a \u0639\u0627\u0644\u0645\u064a Cognia", "school__code": "ESH"}, {"feature": "\u062e\u0628\u0631\u0629 \u0648\u0643\u0641\u0627\u0621\u0629 \u0627\u0644\u0643\u0627\u062f\u0631 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u064a", "school__code": "ESH"}, {"feature": "\u0623\u0646\u0634\u0637\u0629 \u062b\u0642\u0627\u0641\u064a\u0629 \u0648\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0645\u062a\u0639\u062f\u062f\u0629", "school__code": "ESH"}, {"feature": "\u0641\u0635\u0648\u0644 \u062f\u0631\u0627\u0633\u064a\u0629 \u0648\u0645\u0631\u0627\u0641\u0642 \u062a\u0639\u0644\u064a\u0645\u064a\u0629 \u0645\u062c\u0647\u0632\u0629", "school__code": "ESH"}]</script>
+
+    <div class="row p-2">
+        <div class="p-3 col-12">
+            <h3 class="text-main-1 font-bold">
+                سجل بياناتك لتستثمر بتعليم أبنائك
+            </h3>
+        </div>
+
+
+        <div class="p-3 col-12 col-md-7">
+            <form id="advertisement_form" method="POST" enctype="multipart/form-data">
+
+                <input type="hidden" name="csrfmiddlewaretoken" value="M2u5MMeyjX4Gi0eXpSvhTVZahyI397JndIqmY3SheseVKzHLVQKH3DHc8tEQo0B0">
+
+                <p><label for="id_school">المدرسة:</label> <select name="school" required id="id_school">
+  <option value="" selected>---------</option>
+
+  <option value="RO5">الرواد الأهلية - أشبيلية</option>
+
+  <option value="RO4">الرواد الأهلية - الأندلس</option>
+
+  <option value="RO1">الرواد الأهلية - الإزدهار</option>
+
+  <option value="RO2">الرواد الأهلية - الروابي</option>
+
+  <option value="RO3">الرواد الأهلية - المنصورة</option>
+
+  <option value="MED">الشرق الأوسط العالمية</option>
+
+  <option value="ARB">العروبة العالمية</option>
+
+  <option value="FKR">الفكر الأهلية</option>
+
+  <option value="NKH">النخبة الأهلية</option>
+
+  <option value="ESH">رواد أشبيلية العالمية</option>
+
+  <option value="SLM">مدارس السليمانية العالمية</option>
+
+  <option value="ELM">مدارس العلم العالمية</option>
+
+  <option value="WST">مدارس الوسط الأهلية</option>
+
+</select></p>
+<p><label for="id_name">الاسم:</label> <input type="text" name="name" placeholder="الاسم" maxlength="50" required id="id_name"></p>
+<p><label for="id_phone">رقم الجوال:</label> <input type="text" name="phone" placeholder="رقم الجوال" maxlength="10" required id="id_phone"></p>
+<p><label for="id_email">البريد الإلكتروني:</label> <input type="email" name="email" placeholder="البريد الإلكتروني" maxlength="100" required id="id_email"></p>
+<p><label for="id_school_stage">المرحلة الدراسية:</label> <select name="school_stage" required id="id_school_stage">
+  <option value="" selected>---------</option>
+
+  <option value="KG0">KG</option>
+
+  <option value="G01">Grade 1-6</option>
+
+  <option value="G07">Grade 7-9</option>
+
+  <option value="G12">Grade 10-12</option>
+
+  <option value="TWO">Two students or more</option>
+
+</select><input type="hidden" name="advertisement" id="id_advertisement"><div style="display: none;"><input type="text" name="spam_honeypot_field" id="id_spam_honeypot_field"></div></p>
+
+                <p>
+                    <label for="id_message">Message:</label>
+                    <input type="checkbox" name="message" required="" id="id_message">
+                        
+                        أوافق على
+                        
+                        <a href="/ar/school/legal/">
+                            سياسة الخصوصية
+                        </a>
+                </p>
+
+
+                <div id="phone_validation_message" class="alert alert-danger py-3" style="display: none;">
+                    الرجاء التأكد من صحة رقم الجوال
+                </div>
+
+                <input id="main_submit" class="main-button" type="submit" value="أرسل معلومات التواصل">
+
+            </form>
+        </div>
+
+
+        <div class="p-3 col-12 col-md-5 ads-border-right">
+
+            <h4 class="text-main-1 font-bold pb-3">مزايا المدرسة</h4>
+
+
+            <ul id="id_features" class="list-circle"></ul>
+
+
+            <a id="id_attachment" class="main-button link-light" href="#" download="ataa.pdf">
+                الكتيب التعريفي والرسوم
+            </a>
+        </div>
+
+    </div>
+
+
+
+    <div class="row p-2 ads-border-top">
+        <div class="col google-maps-root">
+
+            
+
+                
+                    
+                    <iframe 
+                        id="id_location_RO5" 
+                        class="google-maps d-none" 
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1811.0097981181088!2d46.7966304!3d24.7947825!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2effda709ecfdf%3A0x80c06bf1808421d1!2z2YXYr9in2LHYsyDYsdmI2KfYryDYp9i02KjZitmE2YrZhyDYp9mE2LnYp9mE2YXZitip!5e0!3m2!1sar!2ssa!4v1626563905924!5m2!1sar!2ssa" 
+                        allowfullscreen="" 
+                        loading="lazy">
+                    </iframe>
+                
+                
+
+            
+
+                
+                    
+                    <iframe 
+                        id="id_location_RO4" 
+                        class="google-maps d-none" 
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1811.6796178267164!2d46.7860501!3d24.7488693!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f01ab16a6d34b%3A0xad50bda41913a9c4!2z2YXYr9in2LHYsyDYp9mE2LHZiNin2K8g2YAg2KfZhNij2YbYr9mE2LM!5e0!3m2!1sar!2ssa!4v1626563852760!5m2!1sar!2ssa" 
+                        allowfullscreen="" 
+                        loading="lazy">
+                    </iframe>
+                
+                
+
+            
+
+                
+                    
+                    <iframe 
+                        id="id_location_RO1" 
+                        class="google-maps d-none" 
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1811.1769242309786!2d46.7255569!3d24.7833342!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2efdbe7ca4b253%3A0x9b3f6329bfda2873!2z2YXYr9in2LHYsyDYp9mE2LHZiNin2K8g2KfZhNij2YfZhNmK2Kkg2YAg2YXYrNmF2Lkg2KfZhNin2LLYr9mH2KfYsQ!5e0!3m2!1sar!2ssa!4v1626563673388!5m2!1sar!2ssa" 
+                        allowfullscreen="" 
+                        loading="lazy">
+                    </iframe>
+                
+                
+
+            
+
+                
+                    
+                    <iframe 
+                        id="id_location_RO2" 
+                        class="google-maps d-none" 
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3624.857257394274!2d46.80407998500035!3d24.697433184131036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f073e9749912d%3A0xb03db444f3bce0b4!2z2YXYr9in2LHYsyDYp9mE2LHZiNin2K8g2KfZhNij2YfZhNmK2Kkg2KfZhNix2YjYp9io2Yo!5e0!3m2!1sar!2ssa!4v1626563780278!5m2!1sar!2ssa" 
+                        allowfullscreen="" 
+                        loading="lazy">
+                    </iframe>
+                
+                
+
+            
+
+                
+                    
+                    <iframe 
+                        id="id_location_RO3" 
+                        class="google-maps d-none" 
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3627.2648319563923!2d46.7407165!3d24.6145556!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f0f57e0f0e56d%3A0xce8587de09d50893!2z2YXYr9in2LHYsyDYp9mE2LHZiNin2K8g2KfZhNij2YfZhNmK2KkgLSDZhdis2YXYuSDYp9mE2LHZiNin2KjZig!5e0!3m2!1sar!2ssa!4v1626563828299!5m2!1sar!2ssa" 
+                        allowfullscreen="" 
+                        loading="lazy">
+                    </iframe>
+                
+                
+
+            
+
+                
+                    
+                    <iframe 
+                        id="id_location_MED" 
+                        class="google-maps d-none" 
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1811.4569619094873!2d46.66293736276222!3d24.764140234632798!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2ee3966a057fa5%3A0x310a3053ef4a51ed!2sMiddle%20East%20International%20School%20-%20New%20Building!5e0!3m2!1sar!2ssa!4v1626564802491!5m2!1sar!2ssa" 
+                        allowfullscreen="" 
+                        loading="lazy">
+                    </iframe>
+                
+                
+
+            
+
+                
+                    
+                    <iframe 
+                        id="id_location_ARB" 
+                        class="google-maps d-none" 
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1813.2220307367256!2d46.6581685!3d24.6428389!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f1b47606edccd%3A0x6ea94e91a48e8782!2sAl%20Oruba%20International%20Schools!5e0!3m2!1sar!2ssa!4v1626564364075!5m2!1sar!2ssa" 
+                        allowfullscreen="" 
+                        loading="lazy">
+                    </iframe>
+                
+                
+
+            
+
+                
+                    
+                    <iframe 
+                        id="id_location_FKR" 
+                        class="google-maps d-none" 
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3624.155050004876!2d46.653833884999976!3d24.721556684119644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f1d41fb96c619%3A0xf7c90aefd113043e!2z2YXYr9in2LHYsyDYp9mE2YHZg9ixINin2YTYo9mH2YTZitip!5e0!3m2!1sar!2ssa!4v1626564439959!5m2!1sar!2ssa" 
+                        allowfullscreen="" 
+                        loading="lazy">
+                    </iframe>
+                
+                
+
+            
+
+                
+                    
+                    <iframe 
+                        id="id_location_NKH" 
+                        class="google-maps d-none" 
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d910.1521705854886!2d47.319376!3d24.150377!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa16b8485017aff7a!2z2KXYqNiq2K_Yp9im2YrYqSDYp9mE2YbYrtio2Kkg2KfZhNij2YfZhNmK2Kkg2KjYp9mE2K7Ysdis!5e0!3m2!1sar!2ssa!4v1626564930767!5m2!1sar!2ssa" 
+                        allowfullscreen="" 
+                        loading="lazy">
+                    </iframe>
+                
+                
+
+            
+
+                
+                    
+                    <iframe 
+                        id="id_location_ESH" 
+                        class="google-maps d-none" 
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3622.0308422238604!2d46.7975159!3d24.7943974!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x80c06bf1808421d1!2z2YXYr9in2LHYsyDYsdmI2KfYryDYp9i02KjZitmE2YrZhyDYp9mE2LnYp9mE2YXZitip!5e0!3m2!1sar!2ssa!4v1626564466203!5m2!1sar!2ssa" 
+                        allowfullscreen="" 
+                        loading="lazy">
+                    </iframe>
+                
+                
+
+            
+
+                
+                    
+                    <iframe 
+                        id="id_location_SLM" 
+                        class="google-maps d-none" 
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1811.1769242309786!2d46.7255569!3d24.7833342!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2efdbe7ca4b253%3A0x9b3f6329bfda2873!2z2YXYr9in2LHYsyDYp9mE2LHZiNin2K8g2KfZhNij2YfZhNmK2Kkg2YAg2YXYrNmF2Lkg2KfZhNin2LLYr9mH2KfYsQ!5e0!3m2!1sar!2ssa!4v1626563673388!5m2!1sar!2ssa" 
+                        allowfullscreen="" 
+                        loading="lazy">
+                    </iframe>
+                
+                
+
+            
+
+                
+                    
+                    <iframe 
+                        id="id_location_ELM" 
+                        class="google-maps d-none" 
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1811.1769242309786!2d46.7255569!3d24.7833342!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2efdbe7ca4b253%3A0x9b3f6329bfda2873!2z2YXYr9in2LHYsyDYp9mE2LHZiNin2K8g2KfZhNij2YfZhNmK2Kkg2YAg2YXYrNmF2Lkg2KfZhNin2LLYr9mH2KfYsQ!5e0!3m2!1sar!2ssa!4v1626563673388!5m2!1sar!2ssa" 
+                        allowfullscreen="" 
+                        loading="lazy">
+                    </iframe>
+                
+                
+
+            
+
+                
+                    
+                    <iframe 
+                        id="id_location_WST" 
+                        class="google-maps d-none" 
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1811.1769242309786!2d46.7255569!3d24.7833342!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2efdbe7ca4b253%3A0x9b3f6329bfda2873!2z2YXYr9in2LHYsyDYp9mE2LHZiNin2K8g2KfZhNij2YfZhNmK2Kkg2YAg2YXYrNmF2Lkg2KfZhNin2LLYr9mH2KfYsQ!5e0!3m2!1sar!2ssa!4v1626563673388!5m2!1sar!2ssa" 
+                        allowfullscreen="" 
+                        loading="lazy">
+                    </iframe>
+                
+                
+
+            
+
+        </div>
+    </div>
+
+
+    <script type="text/javascript" src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+
+
+    </div>
+
+
+    <div id="pagination_root" class="container">
+
+        
+            
+            
+
+<script>
+
+  
+
+  function change_GET_tag(tag_name, new_tag_value) {
+    const href = window.location.href
+    const start_index = href.indexOf(tag_name+"=") + tag_name.length + 1
+    if(10 < start_index) {
+      const end_index = href.indexOf('&', start_index)
+      const current_tag_value = end_index == -1 ? href.slice(start_index) : href.slice(start_index, end_index)
+      const new_value = current_tag_value == new_tag_value ? '-' + new_tag_value : new_tag_value
+      window.location.href = href.replace(tag_name+"=" + current_tag_value, tag_name+"=" + new_value)
+    }
+    else {
+      if(!href.includes('?')) {
+        window.location.href = href + "?"+tag_name+"=" + new_tag_value
+      }
+      else {
+        window.location.href = href + "&"+tag_name+"=" + new_tag_value
+      }
+    }
+  }
+
+
+</script>
+
+        
+        
+
+    </div>
+
+
+
+    <footer class="bg-main-bg py-5">
+
+        
+
+
+
+<div class="container">
+    <div class="row row-cols-1 text-center">
+        <div class="py-2">
+
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-main-1">
+                <circle cx="12" cy="12" r="10"/>
+                <line x1="2" y1="12" x2="22" y2="12"/>
+                <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+            </svg>
+
+            <a href="https://ataa.sa/">
+                موقع عطاء
+            </a>
+
+
+            <br /><br />
+
+
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-main-1">
+                <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
+            </svg>
+
+            
+            
+                <a href="tel:920000451">
+                    <span dir="ltr">920000451</span>
+                </a>
+            
+
+
+            <br /><br />
+
+            
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-main-1">
+                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+                <polyline points="22,6 12,13 2,6"/>
+            </svg>
+
+            
+            
+                <a href="/cdn-cgi/l/email-protection#5d34333b321d3c293c3c732e3c">
+                    <span class="__cf_email__" data-cfemail="80e9eee6efc0e1f4e1e1aef3e1">[email&#160;protected]</span>
+                </a>
+            
+
+
+            <br /><br />
+            
+            
+            <a href="/ar/school/legal/">
+                سياسة الخصوصية
+            </a>
+        </div>
+        
+
+        <div class="py-2">
+            
+                © جميع الحقوق محفوظة لشركة عطاء التعليمية
+            
+        </div>
+    </div>
+</div>
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" charset="UTF-8" src="/static/js/jquery-3.6.0.min.8fb8fee4fcc3.js"></script>
+<script type="text/javascript" charset="UTF-8" src="/static/js/bootstrap.min.a08792f518b5.js"></script>
+<script type="text/javascript" charset="UTF-8" src="/static/js/main-v1.7dcc56868900.js"></script>
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GPW4SDTN3E"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-GPW4SDTN3E');
+    gtag('config', 'G-4M8QJ5X633');
+    gtag("event", "page_view");
+</script>
+
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window,document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '873140603327681');
+    fbq('track', 'PageView');
+</script>
+
+<noscript>
+    <img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=873140603327681&ev=PageView&noscript=1" />
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
+
+<!-- Snap Pixel Code -->
+<script type='text/javascript'>
+    (function(e,t,n){if(e.snaptr)return;var a=e.snaptr=function()
+    {a.handleRequest?a.handleRequest.apply(a,arguments):a.queue.push(arguments)};
+    a.queue=[];var s='script';r=t.createElement(s);r.async=!0;
+    r.src=n;var u=t.getElementsByTagName(s)[0];
+    u.parentNode.insertBefore(r,u);})(window,document,
+    'https://sc-static.net/scevent.min.js');
+
+    snaptr('init', '250aac3c-eed6-4e05-ac65-a3bfa104e331', {
+    'user_email': '__INSERT_USER_EMAIL__'
+    });
+
+    snaptr('track', 'PAGE_VIEW');
+
+</script>
+<!-- End Snap Pixel Code -->
+
+
+
+<!-- Twitter universal website tag code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+    a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init','o7ion');
+    twq('track','PageView');
+  </script>
+  <!-- End Twitter universal website tag code -->
+
+    
+    </footer>
+
+
+
+    
+    
+
+
+
+</body>
+</html>
